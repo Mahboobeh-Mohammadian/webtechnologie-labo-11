@@ -1,0 +1,201 @@
+{"ts":"2026-10-26T13:35:15.797Z","session":"20261026-133515","kind":"server_start","data":{"port":5500,"host":"0.0.0.0","root":"c:\\Users\\PC\\Desktop\\School\\Web Technologie\\webtechnologie-labo-11-main","https":false,"live_reload":true}}
+{"ts":"2026-10-26T13:35:16.028Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/index.html","status":200,"duration_ms":2}}
+{"ts":"2026-10-26T13:35:16.060Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/normalize.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-26T13:35:16.061Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-26T13:35:16.062Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/logo.svg","status":200,"duration_ms":1}}
+{"ts":"2026-10-26T13:35:16.095Z","session":"20261026-133515","kind":"ws_connect","data":{"client_id":"c0","url":"http://localhost:5500/observatory/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","viewport":[1504,834]}}
+{"ts":"2026-10-26T13:35:16.098Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/favicon.ico","status":404,"duration_ms":1}}
+{"ts":"2026-10-26T13:36:07.191Z","session":"20261026-133515","kind":"file_change","data":{"path":"observatory/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-26T13:36:07.192Z","session":"20261026-133515","kind":"reload_trigger","data":{"path":"observatory/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-26T13:36:07.207Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:07.212Z","session":"20261026-133515","kind":"ws_disconnect","data":{"client_id":"c0"}}
+{"ts":"2026-10-26T13:36:07.217Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:07.217Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/logo.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:07.217Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:07.243Z","session":"20261026-133515","kind":"ws_connect","data":{"client_id":"c1","url":"http://localhost:5500/observatory/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","viewport":[1504,834]}}
+{"ts":"2026-10-26T13:36:07.695Z","session":"20261026-133515","kind":"file_change","data":{"path":"observatory/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-26T13:36:07.695Z","session":"20261026-133515","kind":"reload_trigger","data":{"path":"observatory/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-26T13:36:07.705Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:07.709Z","session":"20261026-133515","kind":"ws_disconnect","data":{"client_id":"c1"}}
+{"ts":"2026-10-26T13:36:07.716Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-26T13:36:07.716Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/normalize.css","status":304,"duration_ms":2}}
+{"ts":"2026-10-26T13:36:07.716Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/logo.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:07.725Z","session":"20261026-133515","kind":"ws_connect","data":{"client_id":"c2","url":"http://localhost:5500/observatory/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","viewport":[1504,834]}}
+{"ts":"2026-10-26T13:36:10.306Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:10.309Z","session":"20261026-133515","kind":"ws_disconnect","data":{"client_id":"c2"}}
+{"ts":"2026-10-26T13:36:10.312Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:10.312Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:10.312Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/logo.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:10.331Z","session":"20261026-133515","kind":"ws_connect","data":{"client_id":"c3","url":"http://localhost:5500/observatory/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","viewport":[1504,834]}}
+{"ts":"2026-10-26T13:36:13.087Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:13.092Z","session":"20261026-133515","kind":"ws_disconnect","data":{"client_id":"c3"}}
+{"ts":"2026-10-26T13:36:13.095Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:13.095Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:13.096Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/logo.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:13.109Z","session":"20261026-133515","kind":"ws_connect","data":{"client_id":"c4","url":"http://localhost:5500/observatory/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","viewport":[1504,834]}}
+{"ts":"2026-10-26T13:36:53.387Z","session":"20261026-133515","kind":"file_change","data":{"path":"observatory/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-26T13:36:53.387Z","session":"20261026-133515","kind":"reload_trigger","data":{"path":"observatory/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-26T13:36:53.411Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-26T13:36:53.417Z","session":"20261026-133515","kind":"ws_disconnect","data":{"client_id":"c4"}}
+{"ts":"2026-10-26T13:36:53.421Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:53.421Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:53.422Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/logo.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:53.437Z","session":"20261026-133515","kind":"ws_connect","data":{"client_id":"c5","url":"http://localhost:5500/observatory/index.html#contact","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","viewport":[1504,834]}}
+{"ts":"2026-10-26T13:36:53.594Z","session":"20261026-133515","kind":"file_change","data":{"path":"observatory/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-26T13:36:53.594Z","session":"20261026-133515","kind":"reload_trigger","data":{"path":"observatory/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-26T13:36:53.608Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:53.615Z","session":"20261026-133515","kind":"ws_disconnect","data":{"client_id":"c5"}}
+{"ts":"2026-10-26T13:36:53.621Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:53.621Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:53.621Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/logo.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:53.636Z","session":"20261026-133515","kind":"ws_connect","data":{"client_id":"c6","url":"http://localhost:5500/observatory/index.html#contact","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","viewport":[1504,834]}}
+{"ts":"2026-10-26T13:36:57.495Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:57.500Z","session":"20261026-133515","kind":"ws_disconnect","data":{"client_id":"c6"}}
+{"ts":"2026-10-26T13:36:57.503Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:57.503Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:57.503Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/logo.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:36:57.515Z","session":"20261026-133515","kind":"ws_connect","data":{"client_id":"c7","url":"http://localhost:5500/observatory/index.html#contact","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","viewport":[1504,834]}}
+{"ts":"2026-10-26T13:37:27.019Z","session":"20261026-133515","kind":"file_change","data":{"path":"observatory/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-26T13:37:27.019Z","session":"20261026-133515","kind":"reload_trigger","data":{"path":"observatory/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-26T13:37:27.029Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:37:27.034Z","session":"20261026-133515","kind":"ws_disconnect","data":{"client_id":"c7"}}
+{"ts":"2026-10-26T13:37:27.049Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/normalize.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-26T13:37:27.075Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/style.css","status":200,"duration_ms":26}}
+{"ts":"2026-10-26T13:37:27.076Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/logo.svg","status":304,"duration_ms":27}}
+{"ts":"2026-10-26T13:37:27.082Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/hero-night-sky.svg","status":200,"duration_ms":0}}
+{"ts":"2026-10-26T13:37:27.099Z","session":"20261026-133515","kind":"ws_connect","data":{"client_id":"c8","url":"http://localhost:5500/observatory/index.html#contact","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","viewport":[1504,834]}}
+{"ts":"2026-10-26T13:37:27.201Z","session":"20261026-133515","kind":"file_change","data":{"path":"observatory/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-26T13:37:27.201Z","session":"20261026-133515","kind":"reload_trigger","data":{"path":"observatory/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-26T13:37:27.212Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-26T13:37:27.218Z","session":"20261026-133515","kind":"ws_disconnect","data":{"client_id":"c8"}}
+{"ts":"2026-10-26T13:37:27.222Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:37:27.223Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:37:27.223Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/logo.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:37:27.235Z","session":"20261026-133515","kind":"ws_connect","data":{"client_id":"c9","url":"http://localhost:5500/observatory/index.html#contact","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","viewport":[1504,834]}}
+{"ts":"2026-10-26T13:37:30.436Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:37:30.439Z","session":"20261026-133515","kind":"ws_disconnect","data":{"client_id":"c9"}}
+{"ts":"2026-10-26T13:37:30.443Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:37:30.443Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:37:30.443Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/logo.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:37:30.456Z","session":"20261026-133515","kind":"ws_connect","data":{"client_id":"c10","url":"http://localhost:5500/observatory/index.html#contact","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","viewport":[1504,834]}}
+{"ts":"2026-10-26T13:38:17.099Z","session":"20261026-133515","kind":"file_change","data":{"path":"observatory/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-26T13:38:17.099Z","session":"20261026-133515","kind":"reload_trigger","data":{"path":"observatory/index.html","reload_type":"full"}}
+{"ts":"2026-10-26T13:38:17.140Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-26T13:38:17.154Z","session":"20261026-133515","kind":"ws_disconnect","data":{"client_id":"c10"}}
+{"ts":"2026-10-26T13:38:17.159Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:38:17.160Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:38:17.162Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/logo.svg","status":304,"duration_ms":1}}
+{"ts":"2026-10-26T13:38:17.172Z","session":"20261026-133515","kind":"ws_connect","data":{"client_id":"c11","url":"http://localhost:5500/observatory/index.html#contact","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","viewport":[1504,834]}}
+{"ts":"2026-10-26T13:39:00.164Z","session":"20261026-133515","kind":"file_change","data":{"path":"observatory/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-26T13:39:00.164Z","session":"20261026-133515","kind":"reload_trigger","data":{"path":"observatory/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-26T13:39:00.178Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:00.183Z","session":"20261026-133515","kind":"ws_disconnect","data":{"client_id":"c11"}}
+{"ts":"2026-10-26T13:39:00.186Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:00.187Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:00.187Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/logo.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:00.193Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/hero-night-sky.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:00.196Z","session":"20261026-133515","kind":"ws_connect","data":{"client_id":"c12","url":"http://localhost:5500/observatory/index.html#objects","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","viewport":[1504,834]}}
+{"ts":"2026-10-26T13:39:47.034Z","session":"20261026-133515","kind":"file_change","data":{"path":"observatory/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-26T13:39:47.034Z","session":"20261026-133515","kind":"reload_trigger","data":{"path":"observatory/index.html","reload_type":"full"}}
+{"ts":"2026-10-26T13:39:47.067Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-10-26T13:39:47.073Z","session":"20261026-133515","kind":"ws_disconnect","data":{"client_id":"c12"}}
+{"ts":"2026-10-26T13:39:47.077Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-moon.svg","status":200,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:47.077Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:47.077Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:47.079Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/logo.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:47.081Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-saturn.svg","status":200,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:47.084Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-orion.svg","status":200,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:47.085Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-milky-way.svg","status":200,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:47.085Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-eclipse.svg","status":200,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:47.094Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-comet.svg","status":200,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:47.100Z","session":"20261026-133515","kind":"ws_connect","data":{"client_id":"c13","url":"http://localhost:5500/observatory/index.html#objects","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","viewport":[1504,834]}}
+{"ts":"2026-10-26T13:39:47.106Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/hero-night-sky.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:47.936Z","session":"20261026-133515","kind":"file_change","data":{"path":"observatory/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-26T13:39:47.936Z","session":"20261026-133515","kind":"reload_trigger","data":{"path":"observatory/index.html","reload_type":"full"}}
+{"ts":"2026-10-26T13:39:47.948Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-26T13:39:47.952Z","session":"20261026-133515","kind":"ws_disconnect","data":{"client_id":"c13"}}
+{"ts":"2026-10-26T13:39:47.956Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:47.956Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:47.956Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/logo.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:47.956Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-moon.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:47.960Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-saturn.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:47.960Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-orion.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:47.961Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-milky-way.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:47.963Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-eclipse.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:47.963Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-comet.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:39:47.968Z","session":"20261026-133515","kind":"ws_connect","data":{"client_id":"c14","url":"http://localhost:5500/observatory/index.html#objects","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","viewport":[1504,834]}}
+{"ts":"2026-10-26T13:40:01.647Z","session":"20261026-133515","kind":"file_change","data":{"path":"observatory/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-26T13:40:01.647Z","session":"20261026-133515","kind":"reload_trigger","data":{"path":"observatory/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-26T13:40:01.667Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/index.html","status":304,"duration_ms":2}}
+{"ts":"2026-10-26T13:40:01.671Z","session":"20261026-133515","kind":"ws_disconnect","data":{"client_id":"c14"}}
+{"ts":"2026-10-26T13:40:01.677Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:40:01.677Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-26T13:40:01.677Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/logo.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:40:01.678Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-moon.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:40:01.681Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-saturn.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:40:01.681Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-orion.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:40:01.681Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-milky-way.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:40:01.685Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/hero-night-sky.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:40:01.686Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-eclipse.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:40:01.686Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-comet.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:40:01.688Z","session":"20261026-133515","kind":"ws_connect","data":{"client_id":"c15","url":"http://localhost:5500/observatory/index.html#objects","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","viewport":[1504,834]}}
+{"ts":"2026-10-26T13:40:05.262Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:40:05.265Z","session":"20261026-133515","kind":"ws_disconnect","data":{"client_id":"c15"}}
+{"ts":"2026-10-26T13:40:05.269Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:40:05.269Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:40:05.269Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-moon.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:40:05.269Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/logo.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:40:05.272Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-milky-way.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:40:05.272Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-saturn.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:40:05.272Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-orion.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:40:05.275Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-eclipse.svg","status":304,"duration_ms":3}}
+{"ts":"2026-10-26T13:40:05.277Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-comet.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:40:05.289Z","session":"20261026-133515","kind":"ws_connect","data":{"client_id":"c16","url":"http://localhost:5500/observatory/index.html#objects","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","viewport":[1504,834]}}
+{"ts":"2026-10-26T13:41:00.119Z","session":"20261026-133515","kind":"file_change","data":{"path":"observatory/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-26T13:41:00.119Z","session":"20261026-133515","kind":"reload_trigger","data":{"path":"observatory/index.html","reload_type":"full"}}
+{"ts":"2026-10-26T13:41:00.140Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/index.html","status":200,"duration_ms":7}}
+{"ts":"2026-10-26T13:41:00.146Z","session":"20261026-133515","kind":"ws_disconnect","data":{"client_id":"c16"}}
+{"ts":"2026-10-26T13:41:00.150Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:00.150Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:00.150Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-moon.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:00.150Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/logo.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:00.153Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-saturn.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:00.153Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-milky-way.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:00.153Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-orion.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:00.163Z","session":"20261026-133515","kind":"ws_connect","data":{"client_id":"c17","url":"http://localhost:5500/observatory/index.html#objects","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","viewport":[1504,834]}}
+{"ts":"2026-10-26T13:41:00.163Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-eclipse.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:00.163Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-comet.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:00.432Z","session":"20261026-133515","kind":"file_change","data":{"path":"observatory/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-26T13:41:00.433Z","session":"20261026-133515","kind":"reload_trigger","data":{"path":"observatory/index.html","reload_type":"full"}}
+{"ts":"2026-10-26T13:41:00.495Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/index.html","status":304,"duration_ms":47}}
+{"ts":"2026-10-26T13:41:00.499Z","session":"20261026-133515","kind":"ws_disconnect","data":{"client_id":"c17"}}
+{"ts":"2026-10-26T13:41:00.503Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:00.503Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/logo.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:00.503Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-moon.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:00.503Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:00.516Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-saturn.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:00.518Z","session":"20261026-133515","kind":"ws_connect","data":{"client_id":"c18","url":"http://localhost:5500/observatory/index.html#objects","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","viewport":[1504,834]}}
+{"ts":"2026-10-26T13:41:00.518Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-milky-way.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:00.518Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-orion.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:00.519Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-eclipse.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:00.523Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-comet.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:09.669Z","session":"20261026-133515","kind":"file_change","data":{"path":"observatory/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-26T13:41:09.669Z","session":"20261026-133515","kind":"reload_trigger","data":{"path":"observatory/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-26T13:41:09.683Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:09.689Z","session":"20261026-133515","kind":"ws_disconnect","data":{"client_id":"c18"}}
+{"ts":"2026-10-26T13:41:09.693Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:09.693Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:09.693Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/logo.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:09.694Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-moon.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:09.698Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-orion.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:09.698Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-milky-way.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:09.698Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-saturn.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:09.704Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/hero-night-sky.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:09.705Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-eclipse.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:41:09.707Z","session":"20261026-133515","kind":"ws_connect","data":{"client_id":"c19","url":"http://localhost:5500/observatory/index.html#objects","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","viewport":[1504,834]}}
+{"ts":"2026-10-26T13:41:09.707Z","session":"20261026-133515","kind":"http_request","data":{"method":"GET","path":"/observatory/assets/object-comet.svg","status":304,"duration_ms":0}}
+{"ts":"2026-10-26T13:48:02.850Z","session":"20261026-133515","kind":"ws_disconnect","data":{"client_id":"c19"}}
+{"ts":"2026-10-26T13:48:12.641Z","session":"20261026-133515","kind":"ws_connect","data":{"client_id":"c20","url":"http://localhost:5500/observatory/index.html#objects","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","viewport":[1504,834]}}
+{"ts":"2026-10-26T13:49:10.856Z","session":"20261026-133515","kind":"ws_disconnect","data":{"client_id":"c20"}}
+{"ts":"2026-10-26T13:56:14.524Z","session":"20261026-133515","kind":"ws_connect","data":{"client_id":"c21","url":"http://localhost:5500/observatory/index.html#objects","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","viewport":[1504,834]}}
+{"ts":"2026-10-26T14:02:46.324Z","session":"20261026-133515","kind":"ws_disconnect","data":{"client_id":"c21"}}
